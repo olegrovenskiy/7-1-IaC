@@ -32,6 +32,8 @@
 
 ##  Задача 2. Установка терраформ.
 
+На рабочем ноутбуку с Win10
+
     C:\Users\Lenovo>
     C:\Users\Lenovo>terraform --version
     Terraform v1.0.8
@@ -41,6 +43,8 @@
 
 
 ##  Задача 3. Поддержка легаси кода.
+
+На ВМ Вагрант Ubuntu
 
 Использовал рекомендации
 
@@ -52,6 +56,8 @@ https://stackru.com/questions/54206238/kak-ustanovit-neskolko-ili-dve-versii-ter
     
     Your version of Terraform is out of date! The latest version
     is 1.0.8. You can update by downloading from www.terraform.io/downloads.html
+    
+    
     vagrant@vagrant:/usr/local/tf/12$ terraform12 --version
     Terraform v0.12.20
     
